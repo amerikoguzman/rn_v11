@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89857c46-aae4-4c15-bff4-e94c1b3732a5" name="Default" comment="" />
+    <ignored path="rn_v11.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/resizable/resizable_options.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/resizable/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/resizable/resizable_common.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/resizable/resizable_methods.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/resizable/resizable.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/datepicker/datepicker_events.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/datepicker/datepicker_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/datepicker/datepicker_methods.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/datepicker/datepicker_tickets.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/datepicker/datepicker.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/datepicker/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/datepicker/datepicker_options.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/datepicker/datepicker_defaults.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/selectable/selectable_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/selectable/selectable.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/selectable/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/selectable/selectable_options.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/selectable/selectable_common.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/selectable/selectable_events.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/selectable/selectable_methods.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/progressbar/progressbar_events.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/progressbar/progressbar_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/progressbar/progressbar_methods.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/progressbar/progressbar_common.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/progressbar/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/progressbar/progressbar_options.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/progressbar/progressbar.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/autocomplete/autocomplete_events.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/css/demo_table_jui.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/autocomplete/autocomplete_methods.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/css/data_table.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/autocomplete/autocomplete.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/autocomplete/autocomplete_options.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/css/ui_darkness.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/autocomplete/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/css/_notes/dwsync.xml" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/autocomplete/autocomplete_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/autocomplete/autocomplete_common.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/theme.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/visual.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/menu/menu.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/button/performance.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/button/button.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/dialog/performance.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/effects/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/effects/scale.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/effects/effects.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/effects/effects.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/tooltip/animations.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/tooltip/tooltip.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/addClass/queue.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/compound/sortable_accordion_sortable_tabs.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/compound/draggable_accordion.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738280" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/compound/dialog_widgets.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/compound/accordion_tabs.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/compound/tabs_tooltips.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.effect-scale.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/compound/draggable_accordion_accordion_tabs_draggable.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.slider.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/compound/datepicker_dialog.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/compound/tabs_tabs.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/position/position.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/grunt.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/position/position_feedback.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.effect-explode.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/visual/accordion/icons.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.position.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.resizable.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.spinner.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/jquery.ui.datepicker.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.sortable.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.tabs.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/jquery.ui.spinner.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.effect-fold.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/jquery.ui.dialog.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/jquery.ui.base.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.widget.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.effect-shake.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/jquery.ui.selectable.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.droppable.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/jquery.ui.tabs.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/jquery.ui.slider.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.effect-clip.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/jquery.ui.resizable.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.effect-transfer.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/jquery.ui.tooltip.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.effect-highlight.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/jquery-1.8.3.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/jquery-ui.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.draggable.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/jquery.ui.menu.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.effect-pulsate.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/jquery.ui.progressbar.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.dialog.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/jquery.ui.accordion.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/jquery.ui.button.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.menu.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/jquery.ui.autocomplete.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.progressbar.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/package.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.button.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.effect-drop.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.core.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.effect-blind.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.effect-bounce.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.effect-fade.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.effect.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.autocomplete.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.tooltip.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.selectable.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/minified/jquery.ui.autocomplete.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/minified/jquery.ui.selectable.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.effect-slide.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/minified/jquery.ui.spinner.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/minified/jquery.ui.theme.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.accordion.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/minified/jquery.ui.button.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.mouse.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/minified/jquery.ui.tabs.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui.datepicker.jquery.json" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/minified/jquery-ui.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.tabs.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/minified/jquery.ui.accordion.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery-ui.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/minified/jquery.ui.menu.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.datepicker.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/minified/jquery.ui.datepicker.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.progressbar.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/minified/jquery.ui.resizable.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/.jshintrc" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/minified/jquery.ui.tooltip.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.effect-blind.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/minified/jquery.ui.slider.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/minified/jquery.ui.core.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.effect-clip.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/minified/jquery.ui.progressbar.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.effect-pulsate.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/themes/base/minified/jquery.ui.dialog.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.dialog.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.effect-transfer.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.selectable.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.slider.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.effect-fade.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.autocomplete.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.widget.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery-1.8.3.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.menu.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.resizable.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.effect-slide.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.effect-explode.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.draggable.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.effect.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.sortable.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.position.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.effect-shake.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.button.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.tooltip.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.droppable.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.spinner.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.effect-highlight.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.mouse.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.accordion.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.effect-scale.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.effect-fold.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.effect-bounce.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/minified/jquery.ui.autocomplete.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/jquery.ui.effect-drop.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/minified/jquery.ui.selectable.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/minified/jquery.ui.spinner.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/minified/jquery.ui.theme.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/minified/jquery.ui.button.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/minified/jquery.ui.tabs.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/minified/jquery-ui.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/minified/jquery.ui.accordion.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/minified/jquery.ui.menu.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/minified/jquery.ui.datepicker.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/minified/jquery.ui.resizable.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/minified/jquery.ui.tooltip.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/minified/jquery.ui.slider.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/minified/jquery.ui.core.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/minified/jquery.ui.progressbar.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/minified/jquery.ui.dialog.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/demos.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/jquery-1.6.2.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/jquery.simulate.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/jquery-1.8.1.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/jquery-1.8.3.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/index.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/jquery-1.8.0.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738281" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/jquery-1.7.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/jquery-1.6.4.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/index.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/jquery-1.6.3.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/jquery-1.7.2.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/jquery-1.7.1.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/jquery-1.6.1.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/minified/jquery.ui.autocomplete.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/minified/jquery.ui.selectable.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/jquery.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/minified/jquery.ui.spinner.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/jquery-1.8.2.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/minified/jquery.ui.theme.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/jquery-1.6.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/minified/jquery.ui.button.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/minified/jquery.ui.tabs.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/external/qunit.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/minified/jquery-ui.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/external/jquery.cookie.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/minified/jquery.ui.accordion.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/external/globalize.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/minified/jquery.ui.menu.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/external/globalize.culture.de-DE.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/minified/jquery.ui.datepicker.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/external/jquery.metadata.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/minified/jquery.ui.resizable.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/external/jquery.mousewheel.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/minified/jquery.ui.tooltip.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/external/globalize.culture.ja-JP.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/minified/jquery.ui.slider.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/external/qunit.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/minified/jquery.ui.core.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/external/jquery.bgiframe-2.1.2.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/minified/jquery.ui.progressbar.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/external/jshint.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/minified/jquery.ui.dialog.min.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/RowData.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/Blob.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/jquery.ui.datepicker.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/NotUpdatable.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/jquery.ui.spinner.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/jquery.ui.dialog.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/PacketTooBigException.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/jquery.ui.base.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/Connection.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/jquery.ui.selectable.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/jquery.ui.tabs.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/Debug.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/jquery.ui.slider.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/jquery.ui.resizable.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/jquery.ui.tooltip.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/jquery-ui.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/jquery.ui.menu.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/jquery.ui.progressbar.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/jquery.ui.accordion.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/jquery.ui.button.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/base/jquery.ui.autocomplete.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/Buffer.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/jquery.ui.datepicker.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/CharsetMapping.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/jquery.ui.spinner.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/jquery.ui.dialog.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/jquery.ui.base.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/jquery.ui.selectable.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/AssertionFailedException.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/jquery.ui.tabs.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/MiniAdmin.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/jquery.ui.slider.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/SocketFactory.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/jquery.ui.resizable.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/PreparedStatement.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/jquery.ui.tooltip.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/DatabaseMetaData.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/NonRegisteringDriver.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/jquery-ui.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/SQLError.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/jquery.ui.menu.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/Clob.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/jquery.ui.progressbar.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/RowDataStatic.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/jquery.ui.accordion.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/jquery.ui.button.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/themes/ui-lightness/jquery.ui.autocomplete.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/LicenseConfiguration.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/classes/bajar_base.jsp" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/RowDataDynamic.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/Scripts/jquery-1.6.1.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/TimeUtil.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/Scripts/AC_RunActiveContent.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/Scripts/swfobject_modified.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/Scripts/jquery.dataTables.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/Scripts/jquery.dataTables.columnFilter.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/UpdatableResultSet.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/Scripts/jquery.dataTables.pagination.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/web.xml" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/Security.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/Util.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/ResultSetMetaData.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/Autos.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/NamedPipeSocketFactory.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/ResultSet.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/Field.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/MysqlIO.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/CompressedInputStream.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/SingleByteCharsetConverter.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/StandardSocketFactory.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/Driver.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/StringUtils.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/Statement.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/MysqlDefs.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/EscapeProcessor.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/util/TimezoneDump.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/util/BaseBugReport.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/jdbc2/optional/MysqlConnectionPoolDataSource.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/jdbc2/optional/MysqlDataSourceFactory.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/jdbc2/optional/WrapperBase.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/jdbc2/optional/MysqlDataSource.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/jdbc2/optional/MysqlPooledConnection.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/jdbc2/optional/StatementWrapper.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/jdbc2/optional/ConnectionWrapper.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/com/mysql/jdbc/jdbc2/optional/PreparedStatementWrapper.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-fa.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-fr-CH.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-nb.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-ar.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-pt-BR.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-gl.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-pt.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-eo.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-hu.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-uk.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-it.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-th.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-tr.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-ca.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-ka.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-kk.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-hy.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-id.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-fr.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-sr-SR.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-ta.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-ar-DZ.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-vi.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-hr.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/WEB-INF/classes/org/gjt/mm/mysql/Driver.java" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-nl.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-ml.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-bg.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-hi.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-en-GB.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-mk.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-de.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-nl-BE.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-sq.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-nn.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-fo.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-km.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-ru.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-zh-CN.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-lt.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-en-NZ.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-ms.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-zh-TW.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-et.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-fi.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-af.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738282" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-en-AU.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-az.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-be.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-ro.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-cy-GB.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-ko.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-ky.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery-ui-i18n.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-es.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-he.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-bs.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-fr-CA.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-pl.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-sr.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-no.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-zh-HK.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-ja.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-is.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-sk.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-tj.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-da.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-rm.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-sl.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-cs.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-eu.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-sv.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-lb.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-lv.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/i18n/jquery.ui.datepicker-el.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/base/jquery.ui.autocomplete.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/base/jquery.ui.tabs.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/base/jquery.ui.button.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/base/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/base/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/base/jquery.ui.dialog.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/base/jquery.ui.progressbar.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/base/jquery.ui.slider.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/base/jquery.ui.datepicker.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/base/jquery.ui.accordion.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/flick/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/flick/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/flick/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/sunny/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/sunny/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/sunny/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/vader/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/vader/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/vader/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/blitzer/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/blitzer/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/blitzer/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/dot-luv/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/dot-luv/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/dot-luv/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/le-frog/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/le-frog/jquery.ui.button.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/le-frog/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/le-frog/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/redmond/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/redmond/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/redmond/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/eggplant/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/eggplant/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/eggplant/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/humanity/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/humanity/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/humanity/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/overcast/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/overcast/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/overcast/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/black-tie/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/black-tie/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/black-tie/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/cupertino/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/cupertino/jquery.ui.button.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/cupertino/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/cupertino/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/dark-hive/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/dark-hive/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/dark-hive/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/mint-choc/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/mint-choc/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/mint-choc/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/hot-sneaks/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/hot-sneaks/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/hot-sneaks/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/trontastic/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/trontastic/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/trontastic/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/excite-bike/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/excite-bike/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/excite-bike/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/south-street/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/south-street/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/south-street/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/swanky-purse/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/swanky-purse/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/swanky-purse/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/pepper-grinder/jquery-ui-1.8.13.custom.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/pepper-grinder/jquery.ui.theme.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/css/custom/pepper-grinder/jquery.ui.core.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-sl.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-ca.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-el.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-zh-CN.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-id.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-ru.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-nl.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-hr.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-eu.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-kk.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-de.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-bg.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-lv.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-cs.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-rm.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery-ui-i18n.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-da.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-ar-DZ.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-lb.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-vi.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-zh-TW.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-sr-SR.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-sq.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-az.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-pt.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-gl.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-uk.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-ms.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-lt.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-th.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-nl-BE.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-ar.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-pl.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-sv.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-fi.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-is.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-en-NZ.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-en-GB.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-ja.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-sr.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-mk.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-fr-CH.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-km.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-fr.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-en-AU.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-es.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-ro.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-fa.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-zh-HK.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-he.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-af.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-eo.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-hy.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-ko.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-no.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-pt-BR.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-it.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-hu.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-ka.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-tr.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-ml.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-ta.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-et.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-hi.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-cy-GB.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-fo.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-tj.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-sk.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/i18n/jquery.ui.datepicker-bs.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.progressbar.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.accordion.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.effect-shake.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.effect-pulsate.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.slider.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738283" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.effect-drop.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.effect-explode.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.position.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.effect-scale.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.tabs.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.mouse.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.resizable.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.effect-slide.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.draggable.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery-ui.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.sortable.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.effect-fold.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.dialog.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.effect-bounce.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.effect-highlight.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.effect-fade.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.selectable.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.core.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.autocomplete.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.droppable.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.effect-blind.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.widget.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.spinner.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.effect-transfer.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.effect-clip.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.menu.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.effect.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.tooltip.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.button.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/jquery.ui.datepicker.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-fa.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-fr-CH.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-ar.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-pt-BR.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-gl.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-pt.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-eo.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-hu.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-uk.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-it.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-th.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-tr.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-ca.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-ka.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-kk.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-hy.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-id.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-fr.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-sv.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-ta.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-ar-DZ.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-vi.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-hr.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-nl.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-ml.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-bg.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-hi.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-en-GB.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-mk.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-de.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-nl-BE.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-sr-SR.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-sq.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-fo.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-km.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-ru.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-zh-CN.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-lt.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-ms.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-zh-TW.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-et.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-fi.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-af.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-en-AU.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-az.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-ro.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-cy-GB.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-ko.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-en-NZ.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery-ui-i18n.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-es.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-he.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-bs.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-pl.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-sr.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-no.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-zh-HK.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-ja.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-is.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-sk.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-tj.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-da.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-rm.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-sl.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-cs.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-eu.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-lb.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-lv.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/ui/minified/i18n/jquery.ui.datepicker-el.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/hide/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/hide/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/menu/icons.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/menu/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/menu/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/show/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/show/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tabs/mouseover.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tabs/collapsible.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tabs/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tabs/vertical.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tabs/bottom.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tabs/manipulation.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tabs/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tabs/ajax.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tabs/sortable.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tabs/ajax/content2.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tabs/ajax/content1.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/button/icons.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/button/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/button/checkbox.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/button/radio.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/button/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/button/splitbutton.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/button/toolbar.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/dialog/modal.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/dialog/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/dialog/modal-form.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/dialog/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/dialog/modal-confirmation.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/dialog/animated.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/dialog/modal-message.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/effect/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/effect/easing.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/effect/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/slider/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/slider/rangemin.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/slider/slider-vertical.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/slider/hotelrooms.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/slider/range.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/slider/rangemax.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/slider/steps.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/slider/multiple-vertical.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/slider/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/slider/colorpicker.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/slider/side-scroll.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/slider/range-vertical.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/toggle/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/toggle/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/widget/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/widget/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/animate/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/animate/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738284" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/spinner/time.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/spinner/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/spinner/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/spinner/currency.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/spinner/decimal.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/spinner/overflow.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/spinner/latlong.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tooltip/forms.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tooltip/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tooltip/custom-animation.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tooltip/custom-style.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tooltip/custom-content.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tooltip/tracking.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tooltip/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/tooltip/video-player.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/addClass/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/addClass/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/position/cycler.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/position/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/position/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/sortable/delay-start.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/sortable/connect-lists.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/sortable/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/sortable/placeholder.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/sortable/empty-lists.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/sortable/portlets.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/sortable/display-grid.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/sortable/items.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/sortable/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/sortable/connect-lists-through-tabs.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/accordion/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/accordion/fillspace.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/accordion/no-auto-height.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/accordion/hoverintent.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/accordion/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/accordion/custom-icons.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738285" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/accordion/sortable.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/accordion/collapsible.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/draggable/delay-start.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/draggable/revert.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/draggable/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/draggable/visual-feedback.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/draggable/cursor-style.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/draggable/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/draggable/scroll.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/draggable/handle.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/draggable/constrain-movement.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/draggable/snap-to.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/draggable/events.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/draggable/sortable.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/droppable/shopping-cart.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/droppable/revert.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/droppable/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/droppable/propagation.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/droppable/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/droppable/accepted-elements.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/droppable/photo-manager.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/droppable/visual-feedback.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.tabs.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.datepicker.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.progressbar.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/resizable/delay-start.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.dialog.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/resizable/visual-feedback.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/resizable/aspect-ratio.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.effect-clip.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/resizable/textarea.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.effect-pulsate.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/resizable/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.effect-transfer.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/resizable/synchronous-resize.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.widget.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/resizable/snap-to-grid.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.slider.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/resizable/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.effect-fade.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/resizable/max-min.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.selectable.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/resizable/helper.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.resizable.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/resizable/animate.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.menu.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/resizable/constrain-area.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.effect-slide.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/datepicker/inline.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.effect-explode.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/datepicker/animation.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.draggable.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/datepicker/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.effect.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/datepicker/alt-field.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/datepicker/dropdown-month-year.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.sortable.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/datepicker/icon-trigger.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.autocomplete.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/datepicker/show-week.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/datepicker/other-months.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery-ui.custom.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/datepicker/buttonbar.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.position.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738286" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/datepicker/date-range.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.effect-shake.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/datepicker/min-max.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.effect-blind.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/datepicker/date-formats.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.button.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/datepicker/multiple-calendars.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.tooltip.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/datepicker/localization.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.droppable.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/datepicker/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.spinner.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.effect-highlight.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.mouse.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/selectable/serialize.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.accordion.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/selectable/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.effect-scale.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/selectable/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.effect-fold.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/selectable/display-grid.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.effect-bounce.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/progressbar/resize.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/jquery.ui.effect-drop.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/progressbar/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-fr-CA.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-sl.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/progressbar/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-ca.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/progressbar/animated.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-el.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-ru.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/removeClass/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-zh-CN.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/removeClass/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-id.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/switchClass/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-he.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/switchClass/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-nl.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/toggleClass/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-hr.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/toggleClass/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-eu.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/autocomplete/xml.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-kk.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/autocomplete/multiple-remote.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-de.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-bg.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/autocomplete/multiple.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-lv.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/autocomplete/default.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-cs.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/autocomplete/remote-with-cache.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-rm.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/autocomplete/combobox.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery-ui-i18n.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/autocomplete/folding.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-da.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/autocomplete/categories.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-ar-DZ.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/autocomplete/custom-data.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-lb.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-vi.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/autocomplete/london.xml" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-zh-TW.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/autocomplete/maxheight.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-sr-SR.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/autocomplete/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-sq.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/autocomplete/remote.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-nb.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/demos/autocomplete/remote-jsonp.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-az.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-pt.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-gl.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-ky.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-uk.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-zh-HK.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-ms.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-lt.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/swarminject.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-th.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-nl-BE.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-ar.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738287" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-pl.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-nn.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-fi.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-is.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-en-NZ.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-en-GB.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/all-active.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-ja.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-sr.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/subsuite.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-mk.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/testsuite.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-fr-CH.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/qunit-composite.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-km.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-fr.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-en-AU.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-es.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-ro.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-fa.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-sv.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/qunit-composite.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-be.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-af.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/index.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-eo.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-hy.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-ko.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-no.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-pt-BR.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/core/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-it.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/core/selector.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-hu.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/core/core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-ka.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/core/core.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-tr.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/menu/menu_options.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-ml.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/menu/menu_common.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-ta.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/menu/menu_methods.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-et.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/menu/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-hi.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/menu/menu_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-cy-GB.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/menu/menu.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-fo.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/menu/menu_events.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-tj.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/menu/menu_test_helpers.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-sk.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tabs/tabs_events.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/i18n/jquery.ui.datepicker-bs.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tabs/tabs_deprecated.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.progressbar.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.accordion.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tabs/tabs_common.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.effect-pulsate.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tabs/tabs_options.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.slider.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tabs/tabs_common_deprecated.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.effect-drop.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tabs/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery-ui.custom.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tabs/tabs.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.effect-explode.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tabs/tabs_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.position.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tabs/tabs_methods.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.effect-scale.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tabs/tabs_deprecated.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.tabs.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tabs/tabs_test_helpers.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.mouse.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.resizable.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/button/button_options.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.effect-slide.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/button/button.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.draggable.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/button/button_methods.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.sortable.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/button/button_events.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.effect-fold.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/button/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.dialog.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/button/button_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.effect-bounce.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/button/button_tickets.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.effect-highlight.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/button/button_common.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.effect-fade.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/dialog/dialog_methods.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.selectable.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/dialog/dialog_tickets.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.core.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/dialog/dialog_events.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.button.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/dialog/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.autocomplete.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/dialog/dialog_common.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.droppable.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/dialog/dialog_options.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.effect-blind.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/dialog/dialog.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.widget.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/dialog/dialog_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.spinner.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.effect-transfer.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/slider/slider_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.effect-clip.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/slider/slider_events.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.menu.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/slider/slider_common.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.effect.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/slider/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/slider/slider_methods.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.tooltip.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/slider/slider.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.effect-shake.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/slider/slider_options.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/ui/minified/jquery.ui.datepicker.min.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/widget/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/widget/widget_extend.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/widget/widget_animation.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/widget/widget.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/widget/widget_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/effects/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/effects/effects_scale.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/effects/effects.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/effects/effects_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/spinner/spinner_options.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/spinner/spinner_common.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/spinner/spinner.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/spinner/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/spinner/spinner_test_helpers.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/spinner/spinner_events.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/spinner/spinner_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/spinner/spinner_methods.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tooltip/tooltip_events.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tooltip/tooltip_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tooltip/tooltip_common.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tooltip/tooltip_options.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tooltip/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tooltip/tooltip.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/tooltip/tooltip_methods.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/position/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/position/position_deprecated.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/position/position.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/position/position_deprecated.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/position/position_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/sortable/sortable_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/sortable/sortable_common.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/sortable/sortable_tickets.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/sortable/sortable_methods.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/sortable/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/sortable/sortable_events.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/sortable/sortable.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/sortable/sortable_options.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/accordion/accordion.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/accordion/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/accordion/accordion_deprecated.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/accordion/accordion_common_deprecated.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/accordion/accordion_methods.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/accordion/accordion_events.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738288" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/accordion/accordion_options.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/accordion/accordion_common.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/accordion/accordion_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/accordion/accordion_test_helpers.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/accordion/accordion_deprecated.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/draggable/draggable_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/draggable/draggable_events.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/draggable/draggable_options.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/draggable/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/draggable/draggable_common.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/draggable/draggable_methods.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/draggable/draggable.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/droppable/droppable_events.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/droppable/droppable_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/droppable/all.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/droppable/droppable_methods.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/droppable/droppable_common.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/droppable/droppable_options.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/droppable/droppable.html" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/resizable/resizable_core.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/jqry/tests/unit/resizable/resizable_events.js" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374094738289" ignored="false" />
+    <file path="$PROJECT_DIR$/../auto_complete/css/style.css" changelist="89857c46-aae4-4c15-bff4-e94c1b3732a5" time="1374095130654" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="rn_v11" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="abasto_web.jsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/abasto_web.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="19" selection-start="770" selection-end="775" vertical-scroll-proportion="-6.0731416">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/csv_abasto.jsp" />
+        <option value="$PROJECT_DIR$/bajar_base.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rn_v11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89857c46-aae4-4c15-bff4-e94c1b3732a5" name="Default" comment="" />
+      <created>1374091787052</created>
+      <updated>1374091787052</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14781217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/abasto_web.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv_abasto.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="217" column="24" selection-start="10410" selection-end="10410" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bajar_base.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="529" selection-end="529" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bajar_base.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="529" selection-end="529" vertical-scroll-proportion="0.020070838">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv_abasto.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="217" column="24" selection-start="10410" selection-end="10410" vertical-scroll-proportion="0.020383693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abasto_web.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="19" selection-start="770" selection-end="775" vertical-scroll-proportion="-6.0731416">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
