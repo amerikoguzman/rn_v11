@@ -28,7 +28,7 @@ try {
 		 ap_jv=request.getParameter("txtf_pass");
 		 
 		 
-		 rset_002=stmt02.executeQuery("select * from pass where usuario='"+am_jv+"' and pass='"+ap_jv+"' ");
+		 rset_002=stmt02.executeQuery("select * from pass2 where usuario='"+am_jv+"' and pass='"+ap_jv+"' ");
 		 while(rset_002.next())
 		 {
 		    cont6++;

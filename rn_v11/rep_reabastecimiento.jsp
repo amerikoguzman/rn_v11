@@ -410,7 +410,7 @@
         <tr  height="20" <%
             /*if (cant_total == 0) {
                 out.print("style='visibility:hidden'");
-            }*/
+            }*/gn
         %>>
         	
             <td class="negritas"><%=clave_rf%>
