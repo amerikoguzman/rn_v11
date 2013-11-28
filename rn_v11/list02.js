@@ -8923,8 +8923,6 @@ function putNom(form) {
     var nombre = form.slct_afiliados.value
 
     var consultaPaciente = nombre.split(',');
-
-
     if (consultaPaciente[2] == 'true') {
         alert(" Vigencia del afiliado a terminado. \n"
             + "Folio[" + consultaPaciente[3] + "] \n "
@@ -8935,7 +8933,7 @@ function putNom(form) {
     } else {
 
         form.txtf_paciente.value = consultaPaciente[0];
-        form.txtf_sexo.value = consultaPaciente[5];
+        form.txtf_sexo.value = consultaPaciente[2];
         form.txtf_edad.value = consultaPaciente[1];
         form.txtf_foliosp.value = consultaPaciente[3];
 

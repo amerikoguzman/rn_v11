@@ -2,13 +2,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <% 
 //  Conexión a la BDD -------------------------------------------------------------
-        Class.forName("org.gjt.mm.mysql.Driver");
-        Connection conn1 = DriverManager.getConnection("jdbc:mysql://localhost/r_nayarit","root","eve9397");
-    Statement stmt1 = conn1.createStatement();
-        Statement stmt = conn1.createStatement();
-        Statement stmt_01 = conn1.createStatement();
-    ResultSet rset1= null;
-        ResultSet rset2= null;
+Class.forName("org.gjt.mm.mysql.Driver");
+Connection conn1 = DriverManager.getConnection("jdbc:mysql://localhost/receta_electronica","root","eve9397");
+Statement stmt1 = conn1.createStatement();
+Statement stmt = conn1.createStatement();
+Statement stmt_01 = conn1.createStatement();
+ResultSet rset1= null;
+ResultSet rset2= null;
 // fin objetos de conexión ------------------------------------------------------
 
 
@@ -44,7 +44,7 @@
          int tam=0,tam2=0,x1=0;
      String cad1[]=new String[1000];  //array for show clients 
      String but="r";
-         String usu_jv="",juris_jv="",no_jv="",receta_jv="",encar_jv="",unidad2_jv="",clave_jv="",cv_dgo_jv="",cv_uni_jv="",cv_mpio_jv="",perfil="",mensaje="",encar_validar="",contra_validar="";
+         String id_usu="", usu_jv="",juris_jv="",no_jv="",receta_jv="",encar_jv="",unidad2_jv="",clave_jv="",cv_dgo_jv="",cv_uni_jv="",cv_mpio_jv="",perfil="",mensaje="",encar_validar="",contra_validar="";
          String pass_jv="";
          int correct1=0,customerIds=0;
          String val="h";
@@ -60,10 +60,10 @@
 	  
     try { 
          cve_uni=request.getParameter("cve");
-		 if (cve_uni==null)
-		 {
-			 cve_uni="";
-		 }
+                 if (cve_uni==null)
+                 {
+                         cve_uni="";
+                 }
             }catch(Exception e){System.out.print("not");}
     try { 
         but=""+request.getParameter("Submit");
@@ -75,17 +75,17 @@
 if(but.equals("Mostrar"))
       {
          // out.print("ingreso");
-		 cve_uni_2=request.getParameter("txtf_uni");
-		 if (cve_uni_2.equals("")||cve_uni_2==null){
-			%><script>alert ("Unidad no valida");</script><%
-			unidad2_jv="a";
-		} else {
+                 cve_uni_2=request.getParameter("txtf_uni");
+                 if (cve_uni_2.equals("")||cve_uni_2==null){
+%><script>alert("Unidad no valida");</script><%
+                        unidad2_jv="a";
+                } else {
           
-          rset1=stmt1.executeQuery("select * from juris where cve='"+cve_uni_2+"' group by usuario ");
+          rset1=stmt1.executeQuery("select un.des_uni, u.nombre, u.user, u.pass from usuarios u, unidades un where u.cla_uni = un.cla_uni and u.cla_uni='"+request.getParameter("txtf_uni")+"'");
           while (rset1.next()) 
            {
-                        cad1[tam2]=rset1.getString("usuario");
-                        unidad2_jv=rset1.getString("nombre");
+                        cad1[tam2]=rset1.getString("u.nombre");
+                        unidad2_jv=rset1.getString("un.des_uni");
                         tam2++;	   
                         ban=1;
                     cont2++;
@@ -98,171 +98,104 @@ if(but.equals("Mostrar"))
                         {
                        ban_ima=1;
                     }
-          		}
-	  }
+                        }
+          }
 
 if(but.equals("Validar Usuario"))
 {
-		unidad2_jv=request.getParameter("txtf_unidad");
-		receta_jv=request.getParameter("select_receta");
-		encar_jv=request.getParameter("select_encar");
-		pass_jv=request.getParameter("txtf_pass");
-		
-		if (unidad2_jv.equals("")||unidad2_jv==null){
-			%><script>alert ("Unidad no valida");</script><%
-			unidad2_jv="a";
-		} else {
+unidad2_jv=request.getParameter("txtf_unidad");
+receta_jv=request.getParameter("select_receta");
+encar_jv=request.getParameter("select_encar");
+pass_jv=request.getParameter("txtf_pass");
+
+//out.println(unidad2_jv+receta_jv+encar_jv+pass_jv);		
+
+                if (unidad2_jv.equals("")||unidad2_jv==null){
+%><script>alert("Unidad no valida");</script><%
+                        unidad2_jv="a";
+                } else {
 			
 			
-		Connection conn = DriverManager.getConnection("jdbc:mysql://localhost/r_nayarit","root","eve9397");
-		ResultSet rset = stmt.executeQuery("SELECT STR_TO_DATE('"+date+"', '%d/%m/%Y')"); 
-		while(rset.next())
-			date= rset.getString("STR_TO_DATE('"+date+"', '%d/%m/%Y')");
-		rset2=stmt1.executeQuery("select * from juris where nombre='"+unidad2_jv+"' and usuario='"+encar_jv+"' and contra='"+pass_jv+"' ");
+                Connection conn = DriverManager.getConnection("jdbc:mysql://localhost/receta_electronica","root","eve9397");
+                ResultSet rset = stmt.executeQuery("SELECT STR_TO_DATE('"+date+"', '%d/%m/%Y')"); 
+                while(rset.next())
+                date= rset.getString("STR_TO_DATE('"+date+"', '%d/%m/%Y')");
+                
+rset2=stmt1.executeQuery("select nombre, rol, pass, id_usu from usuarios where nombre='"+encar_jv+"' and pass='"+pass_jv+"' ");
         while (rset2.next()) {
-			//out.print(rset2.getString("perfil"));
-			encar_validar=rset2.getString("usuario");
-			contra_validar=rset2.getString("contra");
-			perfil=rset2.getString("perfil");
-			if(encar_jv.equals(encar_validar) && pass_jv.equals(contra_validar))
-			  {cont3++;} 
+                        //out.print(rset2.getString("perfil"));
+                        encar_validar=rset2.getString("nombre");
+						id_usu=rset2.getString("id_usu");
+                        perfil=rset2.getString("rol");
+                        contra_validar=rset2.getString("pass");
+out.print(encar_validar+encar_jv+pass_jv+contra_validar);
+                        if(encar_jv.equals(encar_validar) && pass_jv.equals(contra_validar))
+                          {cont3++;}
+ //out.println(encar_validar+perfil);
          }
-				  
                 if (cont3>0)
                 {
-         rset1=stmt1.executeQuery("select * from uni_atn where uni='"+unidad2_jv+"' ");
-          while (rset1.next()) 
-               { 
-                                  juris_jv=rset1.getString("juris");
-                                  no_jv=rset1.getString("name");
-                                  clave_jv=rset1.getString("clave");
-                                  cv_dgo_jv=rset1.getString("cv_dgo");
-                                  cv_uni_jv=rset1.getString("id_uni");
-                                  cv_mpio_jv=rset1.getString("cv_mpio");
-                                  cont++;
-                   
-               }
-				  
+out.print("-----"+cont3);		  
                 conn.close();
-                if ((cont==1) && (receta_jv.equals("Receta por Farmacia Fecha Manual")))
-                {
-				%>
-				<script>
-					alert("DATOS CORRECTOS")
-					self.location = 'rf.jsp?uni=<%=unidad2_jv%>&juris=<%=no_jv%>&encar=<%=encar_jv%>&juris1=<%=juris_jv%>&clave_uni=<%=clave_jv%>&nombre=&edad=0&folio=&cause=SC&clave1=&descrip1=&present1=&indica1=&sol1=&sur1=&foliore=&nomed=&cedu=&cv_dgo=<%=cv_dgo_jv%>&cv_uni=<%=cv_uni_jv%>&cv_mpio=<%=cv_mpio_jv%>&perfil=<%=perfil%>&part=&id_med=&day5=&carnet=-&mes5=&aa5=&programa&sexo=&ban=2';
-				</script>
-				<%
-						stmt1.execute("insert into pass_rd values (0,'"+pass_jv+"','"+unidad2_jv+"','"+juris_jv+"','"+date+"','CORRECTO')");
-								}
-						
-								if ((cont==1) && (receta_jv.equals("Receta por Farmacia Fecha Automatica")))
-								{
-				%>
-				<script>
-					alert("DATOS CORRECTOS")
-					self.location = 'rf.jsp?uni=<%=unidad2_jv%>&juris=<%=no_jv%>&encar=<%=encar_jv%>&juris1=<%=juris_jv%>&clave_uni=<%=clave_jv%>&nombre=&edad=0&folio=&cause=SC&clave1=&descrip1=&present1=&indica1=&sol1=&sur1=&foliore=&nomed=&cedu=&cv_dgo=<%=cv_dgo_jv%>&cv_uni=<%=cv_uni_jv%>&cv_mpio=<%=cv_mpio_jv%>&perfil=<%=perfil%>&part=&id_med=&day5=&carnet=-&sexo=&mes5=&ban=1&programa';
-				</script>
-				<%
-						stmt1.execute("insert into pass_rd values (0,'"+pass_jv+"','"+unidad2_jv+"','"+juris_jv+"','"+date+"','CORRECTO')");
-								}
-						
-								if ((cont==1) && (receta_jv.equals("Receta Colectiva Fecha Manual")))
-								{
-						
-								stmt1.execute("insert into folio_rec values(null,'morelia')");
-								ResultSet rset_01 = stmt_01.executeQuery("select no_rec from folio_rec");
-								  while(rset_01.next())
-												  {
-									   customerIds = rset_01.getInt("no_rec");
-								  }
-				%>
-				<script>
-					alert("DATOS CORRECTOS")
-					self.location = 'rc.jsp?uni=<%=unidad2_jv%>&juris=<%=no_jv%>&encar=<%=encar_jv%>&juris1=<%=juris_jv%>&clave_uni=<%=clave_jv%>&nombre=&edad=&folio=&cause=&clave1=&descrip1=&present1=&indica1=&sol1=&sur1=&foliore=<%=customerIds%>&cv_dgo=<%=cv_dgo_jv%>&cv_uni=<%=cv_uni_jv%>&cv_mpio=<%=cv_mpio_jv%>&part=&id_med=&day5=&carnet=-&mes5=&aa5=&servicio=&encarser=&ban=2';
-				</script>
-				<%
-				stmt1.execute("insert into pass_rd values (0,'"+pass_jv+"','"+unidad2_jv+"','"+juris_jv+"','"+date+"','CORRECTO')");
-				}
-						
-						
-				if ((cont==1) && (receta_jv.equals("Receta Colectiva Fecha Automatica")))
-				{
-						
-				stmt1.execute("insert into folio_rec values(null,'morelia')");
-				ResultSet rset_01 = stmt_01.executeQuery("select no_rec from folio_rec");
-				  while(rset_01.next())
-								  {
-					   customerIds = rset_01.getInt("no_rec");
-				  }
-						out.print(customerIds);
-				%>
-				<script>
-					alert("DATOS CORRECTOS")
-					self.location = 'rc.jsp?uni=<%=unidad2_jv%>&juris=<%=no_jv%>&encar=<%=encar_jv%>&juris1=<%=juris_jv%>&clave_uni=<%=clave_jv%>&nombre=&edad=&folio=&cause=&clave1=&descrip1=&present1=&indica1=&sol1=&sur1=&foliore=<%=customerIds%>&cv_dgo=<%=cv_dgo_jv%>&cv_uni=<%=cv_uni_jv%>&cv_mpio=<%=cv_mpio_jv%>&part=&id_med=&day5=&carnet=-&mes5=&aa5=&servicio=&encarser=&ban=1';
-				</script>
-				<%
-				stmt1.execute("insert into pass_rd values (0,'"+pass_jv+"','"+unidad2_jv+"','"+juris_jv+"','"+date+"','CORRECTO')");
-				}
-				if ((cont==1) && (perfil.equals("admin") && (receta_jv.equals("Receta por Surtir Farmacia"))))
-				{
-				%>
-				<script>
-					alert("DATOS CORRECTOS");
-					self.location = 'receta_por_surtir.jsp?uni=<%=unidad2_jv%>&juris=<%=no_jv%>&encar=<%=encar_jv%>&juris1=<%=juris_jv%>&clave_uni=<%=clave_jv%>&nombre=&edad=&folio=&cause=&clave1=&descrip1=&present1=&indica1=&sol1=&sur1=&foliore=&nomed=&cedu=&cv_dgo=<%=cv_dgo_jv%>&cv_uni=<%=cv_uni_jv%>&cv_mpio=<%=cv_mpio_jv%>&part=&id_med=&day5=&carnet=&mes5=&aa5=';
-				</script>
-				<%
-						stmt1.execute("insert into pass_rd values (0,'"+pass_jv+"','"+unidad2_jv+"','"+juris_jv+"','"+date+"','CORRECTO')");
-								}
-				
-				
-				if ((cont==1) && (perfil.equals("admin") && (receta_jv.equals("Receta por Surtir Colectiva"))))
-								{
-				%>
-				<script>
-					alert("DATOS CORRECTOS")
-					self.location = 'receta_col_surtir.jsp?uni=<%=unidad2_jv%>&juris=<%=no_jv%>&encar=<%=encar_jv%>&juris1=<%=juris_jv%>&clave_uni=<%=clave_jv%>&nombre=&edad=&folio=&cause=&clave1=&descrip1=&present1=&indica1=&sol1=&sur1=&foliore=&nomed=&cedu=&cv_dgo=<%=cv_dgo_jv%>&cv_uni=<%=cv_uni_jv%>&cv_mpio=<%=cv_mpio_jv%>&part=&id_med=&day5=&carnet=&mes5=&aa5=&servicio=&encarser=';
-				</script>
-				<%
-						stmt1.execute("insert into pass_rd values (0,'"+pass_jv+"','"+unidad2_jv+"','"+juris_jv+"','"+date+"','CORRECTO')");
-								}		
-				
-								if(cont==0){
-				%>
-				<script>
-					alert("DATOS INCORRECTOS")
-				</script>
-				<%
-				//out.print(""+juris_jv);
-				stmt1.execute("insert into pass_rd values (0,'"+pass_jv+"','"+unidad2_jv+"','"+juris_jv+"','"+date+"','INCORRECTO')");
-				unidad2_jv="";
-				cve_uni="";
-				}
-				}else{
-				%>
-				<script>
-					alert("DATOS INCORRECTOS")
-				</script>
-				<%
-						 stmt1.execute("insert into pass_rd values (0,'"+pass_jv+"','"+unidad2_jv+"','"+juris_jv+"','"+date+"','INCORRECTO')");
-								unidad2_jv="";
-								cve_uni="";
-						 }
-						 // si el perfil no es admin
-						 if(perfil.equals("no")){
-				%>
-				<script>
-					alert("USUARIO SIN PERMISOS")
-				</script>
-				<%
-				//out.print(""+juris_jv);
-				stmt1.execute("insert into pass_rd values (0,'"+pass_jv+"','"+unidad2_jv+"','"+juris_jv+"','"+date+"','INCORRECTO')");
-				unidad2_jv="";
-				cve_uni="";
-				}  
-				ban_ima=0;
-			
-		}
-		
+if ((cont3==1) && (receta_jv.equals("Receta por Farmacia Fecha Manual")))
+{
+out.print("\nReceta por Farmacia Fecha Manual");
+stmt1.execute("insert into registro_entradas values ('"+id_usu+"', NOW(), 'RFM', '0');");
+response.sendRedirect("rf.jsp?tipo=RFM&id_usu="+id_usu);
+}		
+if ((cont3==1) && (receta_jv.equals("Receta por Farmacia Fecha Automatica")))
+{
+out.print("\nReceta por Farmacia Fecha auto");
+stmt1.execute("insert into registro_entradas values ('"+id_usu+"', NOW(), 'RFA', '0');");
+response.sendRedirect("rf.jsp?tipo=RFA&id_usu="+id_usu);
+}		
+if ((cont3==1) && (receta_jv.equals("Receta Colectiva Fecha Manual")))
+{
+out.print("\nReceta por Colectiva Fecha Manual");
+stmt1.execute("insert into registro_entradas values ('"+id_usu+"', NOW(), 'RCM', '0');");
+response.sendRedirect("rc.jsp?tipo=RCM&id_usu="+id_usu);
+}						
+if ((cont3==1) && (receta_jv.equals("Receta Colectiva Fecha Automatica")))
+{
+out.print("\nReceta por Colectiva Fecha Automatica");
+stmt1.execute("insert into registro_entradas values ('"+id_usu+"', NOW(), 'RCA', '0');");
+response.sendRedirect("rc.jsp?tipo=RCA&id_usu="+id_usu);
+}
+if ((cont3==1) && (perfil.equals("2") && (receta_jv.equals("Receta por Surtir Farmacia"))))
+{
+out.print("\nReceta por Surtir Farmacia");
+stmt1.execute("insert into registro_entradas values ('"+id_usu+"', NOW(), 'RSF', '0');");
+response.sendRedirect("receta_por_surtir.jsp?id_usu="+id_usu);
+}
+if ((cont3==1) && (perfil.equals("2") && (receta_jv.equals("Receta por Surtir Colectiva"))))
+{
+out.print("\nReceta por Surtir Colectiva");
+stmt1.execute("insert into registro_entradas values ('"+id_usu+"', NOW(), 'RSC', '0');");
+response.sendRedirect("receta_col_surtir.jsp?id_usu="+id_usu);
+}		
+if(cont==0){
+}
+}else{
+%>
+<script>
+    alert("USUARIO SIN PERMISOS")
+</script>
+<%
+}
+// si el perfil no es admin
+if(perfil.equals("no")){
+%>
+<script>
+    alert("USUARIO SIN PERMISOS")
+</script>
+<%
+//out.print(""+juris_jv);
+stmt1.execute("insert into registro_entradas values ('"+encar_validar+"', NOW(), 'INC', '0')");
+unidad2_jv="";
+cve_uni="";
+}  
+ban_ima=0;		
+}
 }
 	   
 
@@ -353,7 +286,7 @@ if(but.equals("Validar Usuario"))
                         <p><a href="pass_reabast.jsp" class="style1" target="_blank">REPORTE DE REABASTECIMIENTO</a></p>
                         <p><a href="reestruct.jsp" class="style1" >REESTRUCUTRACI&Oacute;N DE LA BDD</a></p>
                         <p><a href="carga_inventario.jsp" class="style1" >SUBIR INVENTARIO</a></p>
-                        </td>
+                </td>
                 <td width="4">&nbsp;</td>
                 <td colspan="2" valign="top"><div align="center"></div>
                     <div align="left"></div>
@@ -392,9 +325,9 @@ if(but.equals("Validar Usuario"))
 
 
                                                                     <input type="text" size="10" name="txtf_uni" readonly="readonly" value="<%=cve_uni%>" />
-                                                                    
+
                                                                     <input type="submit" name="Submit" value="Mostrar"/>
-                                                                    <span class="style7">                               <a href="tab.jsp" accesskey="n" target="_self">Ver Unidad</a></span>
+                                                                    <span class="style7">                               <a href="tab.jsp" accesskey="n" target="_self">Ver Unidades</a></span>
                                                                     <%
                                                             if(ban_ima==0)
                                                              {
@@ -411,7 +344,7 @@ if(but.equals("Validar Usuario"))
                                                                     <span class="style9">Unidad inexistente CHECAR UNIDADES</span>
 
                                                                     <script>
-            document.form.txtf_uni.focus();
+                                                                        document.form.txtf_uni.focus();
                                                                     </script>
                                                                     <%
                                                                     }

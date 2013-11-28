@@ -6,7 +6,7 @@ Funcion: Guarda datos del Médico
   -----------------------------------------------------------------------------------------*/
 // Conexión BDD vía JDBC
 Class.forName("org.gjt.mm.mysql.Driver");
-Connection conn__001 = DriverManager.getConnection("jdbc:mysql://localhost/r_nayarit","root","eve9397");
+Connection conn__001 = DriverManager.getConnection("jdbc:mysql://localhost/receta_electronica","root","eve9397");
 Statement stmt = conn__001.createStatement();
 ResultSet rset= null;
 // fin conexión --------
@@ -30,14 +30,14 @@ if(but.equals("Guardar"))
 	 am_jv=request.getParameter("txtf_mat");
 	 nombre1_jv=nom_jv+" "+ap_jv+" "+am_jv;
 	 
-	 String qry_comp_med="select cedula from medico where cedula = '"+noaf_jv+"'";
+	 String qry_comp_med="select cedula from medicos where cedula = '"+noaf_jv+"'";
 	  rset = stmt.executeQuery(qry_comp_med);
 	  while (rset.next()) {
 		  ban_pac = 1;
 	  }
 	 
 	 if (ban_pac==0){
-	 	stmt.execute("insert into medico values ('"+nombre1_jv+"','-','"+noaf_jv+"','-')");
+	 	stmt.execute("insert into medicos values ('0', '"+nombre1_jv+"','"+noaf_jv+"')");
 		 %>
 	 <script>
 	 alert("DATOS GUARDADOS")

@@ -3,12 +3,12 @@
 <%
 		
 		Class.forName("org.gjt.mm.mysql.Driver"); 
-		Connection conne_100 = null;
-		Statement stmt_200 = null;
-		ResultSet rset_200 =null;
-		conne_100 = DriverManager.getConnection("jdbc:mysql://localhost/r_nayarit","root","eve9397");
-		stmt_200 = conne_100.createStatement();
-		rset_200=stmt_200.executeQuery("select * from juris group by cve");			
+		Connection con = null;
+		Statement stmt = null;
+		ResultSet rset=null;
+		con = DriverManager.getConnection("jdbc:mysql://localhost/receta_electronica","root","eve9397");
+		stmt = con.createStatement();
+		rset=stmt.executeQuery("select * from unidades");			
 		String mensaje="";		
 
 %>
@@ -43,14 +43,14 @@
     <th class="style1" scope="col">Nombre de Unidad </th>
   </tr> 
   <%
-    while (rset_200.next()) 
+    while (rset.next()) 
     {              
   %>
   <tr>
     <th width="51" height="37" class="style1" scope="col">&nbsp;
-    <div align="center"><a href="index.jsp?cve=<%=rset_200.getString("cve")%>"><%=rset_200.getString("cve")%></a></div></th>
+    <div align="center"><a href="index.jsp?cve=<%=rset.getString("cla_uni")%>"><%=rset.getString("cla_uni")%></a></div></th>
     <th width="317" class="style1" scope="col">&nbsp;
-    <div align="left"><%=rset_200.getString("nombre")%></div></th>
+    <div align="left"><%=rset.getString("des_uni")%></div></th>
   </tr>
   <%
   }
@@ -59,12 +59,12 @@
 // ----- try que cierra la conexión a la base de datos
 		 try{
                // Se cierra la conexión dentro del try
-                 conne_100.close();
+                 con.close();
 	          }catch (Exception e){mensaje=e.toString();}
            finally{ 
-               if (conne_100!=null){
-                   conne_100.close();
-		                if(conne_100.isClosed()){
+               if (con!=null){
+                   con.close();
+		                if(con.isClosed()){
                              mensaje="desconectado2";}
                  }
              }
